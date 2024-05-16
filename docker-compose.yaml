@@ -13,7 +13,7 @@ services:
 
   database: 
     image: "mcr.microsoft.com/mssql/server:2022-latest"
-    container_name: local-db
+    container_name: controller-api-1-mssql
     environment:
       ACCEPT_EULA: "Y"
       MSSQL_DATABASE: "DevelopmentDB"
