@@ -1,8 +1,8 @@
-using ControllerApi.Web.Models.Enums;
+using ControllerWebAPI.Models.Enums;
 
-namespace ControllerApi.Web.Models.DTO;
+namespace ControllerWebAPI.Models.APIModels;
 
-public class ItemDTO {
+public class ItemAPIModel {
 
     public long Id { get; set; }
     public string? Name { get; set; }

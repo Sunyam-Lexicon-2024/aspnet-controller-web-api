@@ -1,6 +1,6 @@
-using ControllerApi.Web.Models.Enums;
+using ControllerWebAPI.Models.Enums;
 
-namespace ControllerApi.Web.Models;
+namespace ControllerWebAPI.Models;
 
 public class Item
 {

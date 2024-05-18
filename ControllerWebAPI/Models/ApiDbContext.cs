@@ -1,6 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 
-namespace ControllerApi.Web.Models;
+namespace ControllerWebAPI.Models;
 
 public class ApiDbContext(DbContextOptions options) : DbContext(options)
 {

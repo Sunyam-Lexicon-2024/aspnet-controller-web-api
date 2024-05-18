@@ -1,4 +1,4 @@
-namespace ControllerApi.Web.Models.Enums;
+namespace ControllerWebAPI.Models.Enums;
 
 public enum ItemSize
 {
